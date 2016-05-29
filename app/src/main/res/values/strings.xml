@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xiaohua</string>
+    <string name="et_account_hint">账号</string>
+    <string name="et_password_hint">密码</string>
+    <string name="register">新用户</string>
+
+    <string name="login">登入</string>
+    <string name="forget_password">忘记密码?</string>
+</resources>
